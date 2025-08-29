@@ -1,62 +1,28 @@
 # 👨‍💻 João Rocha Neto
 
-Bem-vindo ao meu GitHub! Sou um desenvolvedor em constante evolução, apaixonado por tecnologia e por construir soluções práticas com código. Aqui você encontrará projetos desenvolvidos em diversas linguagens e tecnologias como **React Native**, **TypeScript**, **Python** e mais, resultado de estudos, práticas acadêmicas e desafios pessoais.
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaorocha-neto&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaorocha-neto&layout=compact&theme=radical)
+
+</div>
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🛠️ Tech Stack
 
-### 📱 [Projeto Final UC8 - App de Limpeza de Salas](https://github.com/joaorocha-neto/Projeto_Final_UC8.git)
-Aplicativo mobile desenvolvido com **React Native** com o objetivo de facilitar a limpeza de salas na instituição **Senac RN**. O app permite uma melhor organização e gerenciamento das salas, promovendo mais eficiência no ambiente de trabalho.
+<div align="center">
 
----
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🌐 [SenacHall - Cadastro de Salas](https://github.com/joaorocha-neto/senacHall.git)
-Site desenvolvido com **HTML** e **CSS**, onde professores da instituição podem cadastrar salas. O foco principal foi o **frontend**, mas o projeto também conta com uma **API** funcional, reforçando a integração entre front e back-end.
-
----
-
-### 🛍️ [MinhaLojaRN - App com FakeStore API](https://github.com/joaorocha-neto/MinhaLojaRN.git)
-Aplicativo mobile com **React Native** que consome dados da **FakeStore API** para apresentar uma loja virtual. Ideal para praticar consumo de APIs e estruturação de interfaces de e-commerce.
-
----
-
-### ✅ [ATV4 - Gerenciador de Tarefas](https://github.com/joaorocha-neto/ATV4.git)
-Um dos primeiros apps desenvolvidos em **React Native**. Trata-se de um simples gerenciador de tarefas, perfeito para iniciar no universo do desenvolvimento mobile.
-
----
-
-### 📘 [Lista de Exercícios - TypeScript (ATV3)](https://github.com/joaorocha-neto/typescriptATV3.git)  
-### 📘 [Lista de Exercícios - TypeScript (Project 1)](https://github.com/joaorocha-neto/typescript_project1.git)
-Projetos que reúnem exercícios de **TypeScript**, com foco na prática da tipagem estática, funções, interfaces e outros conceitos fundamentais da linguagem.
-
----
-
-### 🐍 [Gerenciador de Tarefas com Python e CustomTkinter](https://github.com/joaorocha-neto/Gerenciador-de-tarefas.git)
-Um projeto com **Python** usando a biblioteca **CustomTkinter**, que oferece uma interface moderna para um simples gerenciador de tarefas. Ideal para praticar desenvolvimento de aplicações desktop.
-
----
-
-### 📝 [Atividade Introdutória ao GitHub](https://github.com/joaorocha-neto/Atividade_introdutoria_ao_GitHUB.git)
-Meu primeiro repositório no GitHub, criado como parte do aprendizado inicial da plataforma. Um marco importante no começo da minha jornada como desenvolvedor.
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-- React Native
-- TypeScript
-- HTML / CSS
-- JavaScript
-- Python
-- Git & GitHub
-- APIs REST
-- CustomTkinter
-
----
-
-## 📈 Em constante aprendizado
-
-Estou sempre em busca de novos desafios, tecnologias e boas práticas. Cada projeto aqui representa um passo no meu desenvolvimento como programador.
-
-Sinta-se à vontade para explorar meus repositórios, abrir issues ou até mesmo contribuir!
+</div>
